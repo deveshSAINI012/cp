@@ -1,4 +1,4 @@
-//CodeNCode,GFG, 5 min engineering
+//CodeNCode,GFG, 5 min engineering(euler's theorem)
 // A simple C++ program to calculate
 // Euler's Totient Function 
 //Time Complexity: O(n log n)
